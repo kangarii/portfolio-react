@@ -3,7 +3,11 @@ import React from "react";
 export default function Home() {
   return (
     <div className="container flex flex-col items-center justify-center text-white my-10 mt-40 px-7">
-      <img src="src/assets/urang.png" className="w-80" alt="" />
+      <img
+        src="https://cdn.discordapp.com/attachments/404590674370101248/1126432294916345926/urang.png"
+        className="w-80"
+        alt=""
+      />
       <h1 className="font-semibold text-2xl">Hey, I'm Ari Gunawan</h1>
       <h1 className="font-semibold text-base my-3 text-center">
         IT Support & FronEnd Dev based on,
