@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Home() {
   return (
-    <div className="container flex flex-col items-center justify-center text-white my-10 mt-32 px-7">
+    <div className="container flex flex-col items-center justify-center text-white my-10 mt-24 px-7">
       <img
         src="https://cdn.discordapp.com/attachments/404590674370101248/1126432294916345926/urang.png"
         className="w-80"
