@@ -12,7 +12,7 @@ const Footer = () => {
           {/* social */}
           <div className="flex flex-col items-center justify-center ml-24  lg:ml-96 pl-4 mt-1">
             <h1>Connect With Me😉</h1>
-            <div className="flex flex-row items-center justify-center">
+            <div className="flex flex-row items-center justify-center mr-3">
               <a href="https://www.instagram.com/arignwan_/" target="_blank">
                 <svg
                   className="fill-current"
