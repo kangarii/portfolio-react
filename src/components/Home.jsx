@@ -12,7 +12,7 @@ export default function Home() {
       <h1 className="font-semibold text-base my-3 text-center">
         IT Support & FronEnd Dev based on,
         <span className="border-b ml-1">
-          <a href="https://id.wikipedia.org/wiki/Kota_Serang">
+          <a href="https://id.wikipedia.org/wiki/Kota_Serang" target="_blank">
             Serang - Banten Indonesia📍
           </a>
         </span>
