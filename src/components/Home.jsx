@@ -11,7 +11,11 @@ export default function Home() {
       <h1 className="font-semibold text-2xl">Hey, I'm Ari Gunawan👋</h1>
       <h1 className="font-semibold text-base my-3 text-center">
         IT Support & FronEnd Dev based on,
-        <span className="border-b ml-1">Serang - Banten Indonesia📍</span>
+        <span className="border-b ml-1">
+          <a href="https://id.wikipedia.org/wiki/Kota_Serang">
+            Serang - Banten Indonesia📍
+          </a>
+        </span>
       </h1>
       <p className=" text-sm text-justify lg:px-32">
         I'm self taught engineer with high enthusiast of Internet Networking and
