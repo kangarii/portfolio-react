@@ -7,7 +7,7 @@ export default function App() {
   return (
     <>
       {/* <Header /> */}
-      <div data-aos="fade-up" data-aos-duration="1000">
+      <div data-aos="fade-up" data-aos-duration="3000">
         <Home />
         <Footer />
       </div>
